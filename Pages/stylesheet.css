@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+.maindiv {
+	width: 735px;
+}
+
+.logodiv {	height: 50px;
+}
+
+.topnavmenu {}
+
+.topnavmenu ul {	list-style-type: none; 
+}
+
+.topnavmenu li {	padding-right: 30px; 
+					font-family:Helvetica, Arial, sans-serif; 
+					font-weight: 700; 
+					letter-spacing: 1px; 
+					display:inline;
+}
+
+.topnavmenu a {	font-size:14px; 
+				color:#999999; 
+				text-decoration: none; 
+}
+				
+.topnavmenu a:hover {	color:#cfa315;
+}
+
+
+.maingallery {	margin: 0 auto; text-align: center;
+}
+
+.maingallery img {	padding: 10px;
+}
+
+.salesp {	color:#cfa315; 
+			font-size:16px; 
+}
